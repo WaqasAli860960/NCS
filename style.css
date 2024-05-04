@@ -1,0 +1,36 @@
+input {
+    width: 300px;
+    height: 40px;
+    box-shadow: 5px 5px 5px 5px rgb(4, 255, 234);
+    border-radius: 20px;
+}
+
+fieldset {
+    width: 800px;
+    background-image: url("./nebula-4k-teal-turquoise-wallpaper-preview.jpg");
+    background-size: cover;
+    backdrop-filter: blur;
+    box-shadow: 5px 5px 10px 10px rgb(65, 202, 223);
+    height: 700px;
+}
+
+body {
+    background-image: url("./8k-Wallpapers-7680x4320.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    flex-wrap: wrap;
+}
+
+.waqas {
+    border-radius: 100px;
+}
+
+legend {
+    color: chartreuse;
+}
+
+.ww {
+    color: rgb(255, 0, 0);
+    font-weight: bolder;
+}
